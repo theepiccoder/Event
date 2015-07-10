@@ -1,0 +1,4 @@
+name: Acheiment Rewards
+main: com.ConorGrocock.src.Events
+version: 1.0
+commands:
